@@ -1,0 +1,11 @@
+News ID,Main Category,Sub Category,Title Entities,Similarity
+N88753,politics,lifestyleroyals,"[{'Label': 'Prince Philip, Duke of Edinburgh', 'Type': 'P', 'WikidataId': 'Q80976', 'Confidence': 1.0, 'OccurrenceOffsets': [48], 'SurfaceForms': ['Prince Philip']}, {'Label': 'Charles, Prince of Wales', 'Type': 'P', 'WikidataId': 'Q43274', 'Confidence': 1.0, 'OccurrenceOffsets': [28], 'SurfaceForms': ['Prince Charles']}, {'Label': 'Elizabeth II', 'Type': 'P', 'WikidataId': 'Q9682', 'Confidence': 0.97, 'OccurrenceOffsets': [11], 'SurfaceForms': ['Queen Elizabeth']}]",0.0
+N45436,technology,newsscienceandtechnology,"[{'Label': 'IPad', 'Type': 'J', 'WikidataId': 'Q2796', 'Confidence': 0.999, 'OccurrenceOffsets': [42], 'SurfaceForms': ['iPads']}, {'Label': 'Walmart', 'Type': 'O', 'WikidataId': 'Q483551', 'Confidence': 1.0, 'OccurrenceOffsets': [0], 'SurfaceForms': ['Walmart']}]",0.0
+N93187,politics,newsworld,[],0.0
+N124534,sports,football_nfl,"[{'Label': 'National Football League', 'Type': 'O', 'WikidataId': 'Q1215884', 'Confidence': 1.0, 'OccurrenceOffsets': [7], 'SurfaceForms': ['NFL']}]",0.0
+N51947,technology,newsscienceandtechnology,"[{'Label': 'Microsoft Windows', 'Type': 'J', 'WikidataId': 'Q1406', 'Confidence': 1.0, 'OccurrenceOffsets': [29], 'SurfaceForms': ['Windows']}, {'Label': 'Android (operating system)', 'Type': 'J', 'WikidataId': 'Q94', 'Confidence': 1.0, 'OccurrenceOffsets': [52], 'SurfaceForms': ['Android']}]",0.0
+N40259,politics,newsworld,"[{'Label': 'Chile', 'Type': 'G', 'WikidataId': 'Q298', 'Confidence': 0.988, 'OccurrenceOffsets': [0], 'SurfaceForms': ['Chile']}]",0.0
+N13152,technology,newsscienceandtechnology,[],0.0
+N107267,sports,football_nfl,"[{'Label': 'Philadelphia Eagles', 'Type': 'O', 'WikidataId': 'Q219714', 'Confidence': 0.93, 'OccurrenceOffsets': [3], 'SurfaceForms': ['Eagles']}]",0.0
+N30547,sports,autosenthusiasts,"[{'Label': 'Ram Pickup', 'Type': 'V', 'WikidataId': 'Q1211586', 'Confidence': 1.0, 'OccurrenceOffsets': [17], 'SurfaceForms': ['Ram 3500']}]",0.0
+N42639,sports,autossports,[],0.0
